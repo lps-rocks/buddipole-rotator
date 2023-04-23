@@ -27,7 +27,7 @@ I've split this into a few independent designs and parts
 - Stepper Driver - [SilentStepStick w/TMC2130](https://learn.watterott.com/silentstepstick/)
 - Stepper Driver Protection - [SilentStepStick Protector](https://learn.watterott.com/silentstepstick/protector/)
 - Rotary Encoder - [Optical Rotary Encoder 600P/R](https://www.amazon.com/gp/product/B085ZLCYS1/)
-- Microcontroller - [Arduino Pro Mini (DEV-11113) from SparkFun](https://www.sparkfun.com/products/11113)
+- Microcontroller - [SparkFun Arduino Pro Mini (DEV-11113)](https://www.sparkfun.com/products/11113)
 - Power Regulator - **TBD**
 
 ## 
