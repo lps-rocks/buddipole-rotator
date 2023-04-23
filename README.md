@@ -12,7 +12,7 @@ I've split this into a few independent designs and parts
 
 ### Design
 - All stepper controls / intelligence is at the mast
-- RS485 Control compliant with [Idiom Press Rotor-EZ Rotator Control Protocol](https://www.hamsupply.com/wp-content/uploads/2015/11/Rotor-EZ-Protocol.pdf)
+- RS485 interface with [Idiom Press Rotor-EZ Rotator Control Protocol](https://www.hamsupply.com/wp-content/uploads/2015/11/Rotor-EZ-Protocol.pdf)
 
 ### Parts
 - Stepper Driver - [SilentStepStick w/TMC2130](https://learn.watterott.com/silentstepstick/) w/TMC2130 stepper driver
