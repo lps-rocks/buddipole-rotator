@@ -23,6 +23,7 @@ I've split this into a few independent designs and parts
 - STL files - Link to STL files
 
 ### Parts
+- Stepper [Nema 17 Bipolar 1.5A 42Ncm 42x42x38mm 1.8deg](https://www.amazon.com/STEPPERONLINE-Stepper-Bipolar-42x42x38mm-Connector/dp/B0B38GX54H)
 - Stepper Driver - [SilentStepStick w/TMC2130](https://learn.watterott.com/silentstepstick/)
 - Stepper Driver Protection - [SilentStepStick Protector](https://learn.watterott.com/silentstepstick/protector/)
 - Rotary Encoder - [Optical Rotary Encoder 600P/R](https://www.amazon.com/gp/product/B085ZLCYS1/)
