@@ -1,18 +1,26 @@
 # buddipole-rotator
 
-Inspired by [the rotator made by KI6AWR and HB9MTN](https://qsl.net/hb9mtn/BPMW/MW_Rotor.html), this rotator adds some additional features and makes some design changes. 
+Inspired by [the rotator made by KI6AWR and HB9MTN](https://qsl.net/hb9mtn/BPMW/MW_Rotor.html), this rotator adds some additional features and makes some design changes. All of the rotator intelligence is located in the rotator at the mast and exposes an RS485 connection with the[Idiom Press Rotor-EZ Rotator Control Protocol](https://www.hamsupply.com/wp-content/uploads/2015/11/Rotor-EZ-Protocol.pdf).
 
 I've split this into a few independent designs and parts
 
 - Rotator
 - Controller
-- Wireless Adapter
+- Wireless Module
 
 ## Rotator 
 
+### Features
+- All of the intelligence, control, and safety features are located in the Rotator. 
+- The chosen Stepper motor driver has the ability to detect motor load, save power, and run cooler automatically
+- Addition of an optical rotary encoder ensures safety of the components should the mast bind and stop rotating
+- 
+
 ### Design
-- All stepper controls / intelligence is at the mast
-- RS485 interface with [Idiom Press Rotor-EZ Rotator Control Protocol](https://www.hamsupply.com/wp-content/uploads/2015/11/Rotor-EZ-Protocol.pdf)
+- Arduino Code - Link to Arduino Source Code
+- Schematic - Link to Schematic
+- Board - Link to board
+- STL files - Link to STL files
 
 ### Parts
 - Stepper Driver - [SilentStepStick w/TMC2130](https://learn.watterott.com/silentstepstick/)
@@ -21,5 +29,4 @@ I've split this into a few independent designs and parts
 - Microcontroller - [Arduino Pro Mini (DEV-11113) from SparkFun](https://www.sparkfun.com/products/11113)
 - Power Regulator - **TBD**
 
-## Rotator Additional Features
-- RS485 to Digi XBee3 for Wireless control
+## 
