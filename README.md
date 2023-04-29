@@ -27,7 +27,7 @@ I've split this into a few independent designs and parts
 - Stepper Driver - [SilentStepStick w/TMC2130](https://learn.watterott.com/silentstepstick/)
 - Stepper Driver Protection - [SilentStepStick Protector](https://learn.watterott.com/silentstepstick/protector/)
 - Microcontroller - [Ardunio Nano Every](https://store-usa.arduino.cc/products/arduino-nano-every)
-- Level Shifter for RS485 Communication - MAX488 Chip (Full Duplex RS485 w/reduced EMI)
+- Level Shifter (RS485 to TTL) - MAX488EPA+ - [Digikey](https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX488EPA/1495109?s=N4IgTCBcDaILIEEAaAWAHGgogBQQagAIQBdAXyA) | [Mouser](https://www.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX488EPA%2b?qs=1THa7WoU59G6dxfe6rTcAA%3D%3D)
 - Connectors
   - Power - Anderson Powerpole 15/45
   - Communication - 5-pin M12 A-Code Circular Connectors [DigiKey](https://www.digikey.com/en/products/detail/conec/43-01199/2793477?s=N4IgTCBcDaIAQBYDMBaADARgwTmyAugL5A)/[Mouser](https://www.mouser.com/ProductDetail/Amphenol-CONEC/43-01199?qs=BLWaPj7617f34EH%2FcnQWlA%3D%3D)
@@ -50,7 +50,7 @@ I've split this into a few independent designs and parts
 
 ### Parts
 - Microcontroller - [Ardunio Nano Every](https://store-usa.arduino.cc/products/arduino-nano-every)
-- Level Shifter (RS485 to TTL) - MAX488EPA+ - [Digikey](https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX488EPA/1495109?s=N4IgTCBcDaILIEEAaAWAHGgogBQQagAIQBdAXyA)/[Mouser](https://www.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX488EPA%2b?qs=1THa7WoU59G6dxfe6rTcAA%3D%3D)
+- Level Shifter (RS485 to TTL) - MAX488EPA+ - [Digikey](https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX488EPA/1495109?s=N4IgTCBcDaILIEEAaAWAHGgogBQQagAIQBdAXyA) | [Mouser](https://www.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX488EPA%2b?qs=1THa7WoU59G6dxfe6rTcAA%3D%3D)
 - LED Ring - [NeoPixel 24x 5050 RGBW LED Ring](https://www.adafruit.com/product/1586)
 - Connectors
   - Power - Anderson Powerpole 15/45
