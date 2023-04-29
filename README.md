@@ -30,7 +30,7 @@ I've split this into a few independent designs and parts
 - Level Shifter (RS485 to TTL) - MAX488EPA+ - [Digikey](https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX488EPA/1495109?s=N4IgTCBcDaILIEEAaAWAHGgogBQQagAIQBdAXyA) | [Mouser](https://www.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX488EPA%2b?qs=1THa7WoU59G6dxfe6rTcAA%3D%3D)
 - Connectors
   - Power - Anderson Powerpole 15/45
-  - Communication - 5-pin M12 A-Code Circular Connectors [DigiKey](https://www.digikey.com/en/products/detail/conec/43-01199/2793477?s=N4IgTCBcDaIAQBYDMBaADARgwTmyAugL5A)| [Mouser](https://www.mouser.com/ProductDetail/Amphenol-CONEC/43-01199?qs=BLWaPj7617f34EH%2FcnQWlA%3D%3D)
+  - Communication - 5-pin M12 A-Code Circular Connectors [DigiKey](https://www.digikey.com/en/products/detail/conec/43-01199/2793477?s=N4IgTCBcDaIAQBYDMBaADARgwTmyAugL5A) | [Mouser](https://www.mouser.com/ProductDetail/Amphenol-CONEC/43-01199?qs=BLWaPj7617f34EH%2FcnQWlA%3D%3D)
 
 ## Controller
 
