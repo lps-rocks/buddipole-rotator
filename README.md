@@ -11,7 +11,7 @@ I've split this into a few independent designs and parts
 ## Rotator 
 
 ### Features
-- Utilizes [Idiom Press Rotor-EZ Rotator Control Protocol](https://www.hamsupply.com/wp-content/uploads/2015/11/Rotor-EZ-Protocol.pdf) over Full Duplex RS-485 via 5-pin 16mm aviation connector
+- Utilizes [Idiom Press Rotor-EZ Rotator Control Protocol](https://www.hamsupply.com/wp-content/uploads/2015/11/Rotor-EZ-Protocol.pdf) over Full Duplex RS-485
 - Trinamic TMC2130 Stepper driver can intelligently adjust power output to the stepper based on load to prevent lost steps, maximize motor torque, reduce power consumption, and heat output
 - Can operate off of wide voltage range (max input voltage 21V)
 - 1° rotation increments
@@ -28,10 +28,9 @@ I've split this into a few independent designs and parts
 - Stepper Driver Protection - [SilentStepStick Protector](https://learn.watterott.com/silentstepstick/protector/)
 - Microcontroller - [Ardunio Nano Every](https://store-usa.arduino.cc/products/arduino-nano-every)
 - Level Shifter for RS485 Communication - MAX488 Chip (Full Duplex RS485 w/reduced EMI)
-- 
 - Connectors
   - Power - Anderson Powerpole 15/45
-  - Communication - 16mm 5 pin aviation connector 
+  - Communication - 5-pin M12 A-Code Circular Connectors [DigiKey](https://www.digikey.com/en/products/detail/conec/43-01199/2793477?s=N4IgTCBcDaIAQBYDMBaADARgwTmyAugL5A)/[Mouser](https://www.mouser.com/ProductDetail/Amphenol-CONEC/43-01199?qs=BLWaPj7617f34EH%2FcnQWlA%3D%3D)
 
 ## Controller
 
