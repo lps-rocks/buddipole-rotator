@@ -23,14 +23,14 @@ I've split this into a few independent designs and parts
 - STL files - Link to STL files
 
 ### Parts
-- Stepper [Nema 17 Bipolar 1.5A 42Ncm 42x42x38mm 1.8deg](https://www.amazon.com/STEPPERONLINE-Stepper-Bipolar-42x42x38mm-Connector/dp/B0B38GX54H)
+- Stepper - [Nema 17 Bipolar 1.5A 42Ncm 42x42x38mm 1.8deg](https://www.amazon.com/STEPPERONLINE-Stepper-Bipolar-42x42x38mm-Connector/dp/B0B38GX54H)
 - Stepper Driver - [SilentStepStick w/TMC2130](https://learn.watterott.com/silentstepstick/)
 - Stepper Driver Protection - [SilentStepStick Protector](https://learn.watterott.com/silentstepstick/protector/)
 - Microcontroller - [Ardunio Nano Every](https://store-usa.arduino.cc/products/arduino-nano-every)
 - Level Shifter (RS485 to TTL) - MAX488EPA+ - [Digikey](https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX488EPA/1495109?s=N4IgTCBcDaILIEEAaAWAHGgogBQQagAIQBdAXyA) | [Mouser](https://www.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX488EPA%2b?qs=1THa7WoU59G6dxfe6rTcAA%3D%3D)
 - Connectors
-  - Power - Anderson Powerpole 15/45
-  - Communication - 5-pin M12 A-Code Circular Connectors [DigiKey](https://www.digikey.com/en/products/detail/conec/43-01199/2793477?s=N4IgTCBcDaIAQBYDMBaADARgwTmyAugL5A) | [Mouser](https://www.mouser.com/ProductDetail/Amphenol-CONEC/43-01199?qs=BLWaPj7617f34EH%2FcnQWlA%3D%3D)
+  - Power - [Anderson Power 1336G1](https://powerwerx.com/anderson-1336g1-printed-circuit-board-horizontal)
+  - Communication - 5-pin M12 A-Code Circular Connector - [DigiKey](https://www.digikey.com/en/products/detail/conec/43-01199/2793477?s=N4IgTCBcDaIAQBYDMBaADARgwTmyAugL5A) | [Mouser](https://www.mouser.com/ProductDetail/Amphenol-CONEC/43-01199?qs=BLWaPj7617f34EH%2FcnQWlA%3D%3D)
 
 ## Controller
 
@@ -53,5 +53,5 @@ I've split this into a few independent designs and parts
 - Level Shifter (RS485 to TTL) - MAX488EPA+ - [Digikey](https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX488EPA/1495109?s=N4IgTCBcDaILIEEAaAWAHGgogBQQagAIQBdAXyA) | [Mouser](https://www.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX488EPA%2b?qs=1THa7WoU59G6dxfe6rTcAA%3D%3D)
 - LED Ring - [NeoPixel 24x 5050 RGBW LED Ring](https://www.adafruit.com/product/1586)
 - Connectors
-  - Power - Anderson Powerpole 15/45
-  - Communication - 5-pin M12 A-Code Circular Connectors [DigiKey](https://www.digikey.com/en/products/detail/conec/43-01199/2793477?s=N4IgTCBcDaIAQBYDMBaADARgwTmyAugL5A) | [Mouser](https://www.mouser.com/ProductDetail/Amphenol-CONEC/43-01199?qs=BLWaPj7617f34EH%2FcnQWlA%3D%3D)
+  - Power - [Anderson Power 1336G1](https://powerwerx.com/anderson-1336g1-printed-circuit-board-horizontal)
+  - Communication - 5-pin M12 A-Code Circular Connector - [DigiKey](https://www.digikey.com/en/products/detail/conec/43-01199/2793477?s=N4IgTCBcDaIAQBYDMBaADARgwTmyAugL5A) | [Mouser](https://www.mouser.com/ProductDetail/Amphenol-CONEC/43-01199?qs=BLWaPj7617f34EH%2FcnQWlA%3D%3D)
