@@ -13,7 +13,7 @@ I've split this into a few independent designs and parts
 ### Features
 - Utilizes [Idiom Press Rotor-EZ Rotator Control Protocol](https://www.hamsupply.com/wp-content/uploads/2015/11/Rotor-EZ-Protocol.pdf) over Full Duplex RS-485 via 5-pin 16mm aviation connector
 - Trinamic TMC2130 Stepper driver can intelligently adjust power output to the stepper based on load to prevent lost steps, maximize motor torque, reduce power consumption, and heat output
-- Can operate off of wide voltage range
+- Can operate off of wide voltage range (max input voltage 21V)
 - 1° rotation increments
   
 ### Design
@@ -26,9 +26,9 @@ I've split this into a few independent designs and parts
 - Stepper [Nema 17 Bipolar 1.5A 42Ncm 42x42x38mm 1.8deg](https://www.amazon.com/STEPPERONLINE-Stepper-Bipolar-42x42x38mm-Connector/dp/B0B38GX54H)
 - Stepper Driver - [SilentStepStick w/TMC2130](https://learn.watterott.com/silentstepstick/)
 - Stepper Driver Protection - [SilentStepStick Protector](https://learn.watterott.com/silentstepstick/protector/)
-- Microcontroller - [SparkFun Arduino Pro Mini (DEV-11113)](https://www.sparkfun.com/products/11113)
+- Microcontroller - [Ardunio Nano Every](https://store-usa.arduino.cc/products/arduino-nano-every)
 - Level Shifter for RS485 Communication - MAX488 Chip (Full Duplex RS485 w/reduced EMI)
-- Power Regulator - **TBD**
+- 
 - Connectors
   - Power - Anderson Powerpole 15/45
   - Communication - 16mm 5 pin aviation connector 
