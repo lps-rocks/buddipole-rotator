@@ -52,6 +52,7 @@ I've split this into a few independent designs and parts
 - Microcontroller - [Ardunio Nano Every](https://store-usa.arduino.cc/products/arduino-nano-every)
 - Level Shifter (RS485 to TTL) - MAX488EPA+ - [Digikey](https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/MAX488EPA/1495109?s=N4IgTCBcDaILIEEAaAWAHGgogBQQagAIQBdAXyA) | [Mouser](https://www.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX488EPA%2b?qs=1THa7WoU59G6dxfe6rTcAA%3D%3D)
 - LED Ring - [NeoPixel 24x 5050 RGBW LED Ring](https://www.adafruit.com/product/1586)
+- Buttons - 5x [16mm Push Button Switch Momentary Square Cap](https://www.amazon.com/gp/product/B01N9GQU3P/)
 - Connectors
   - Power - [Anderson Power 1336G1](https://powerwerx.com/anderson-1336g1-printed-circuit-board-horizontal)
   - Communication - 5-pin M12 A-Code Circular Connector - [DigiKey](https://www.digikey.com/en/products/detail/conec/43-01199/2793477?s=N4IgTCBcDaIAQBYDMBaADARgwTmyAugL5A) | [Mouser](https://www.mouser.com/ProductDetail/Amphenol-CONEC/43-01199?qs=BLWaPj7617f34EH%2FcnQWlA%3D%3D)
